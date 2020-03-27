@@ -10,5 +10,5 @@ Unityで作成した玉転がしゲームのアプリケーションです。
 - Code：C#
 - GUI tools：Unity, Unity Hub
 - Deploy：Unity WebGL, GitHub Pages
-- Editor：Visual Studio
+- Editor：Visual Studio  
 ※C#で記述したソースコードはBallRoll-WebGL直下の「Myscript」ディレクトリに格納しております。
