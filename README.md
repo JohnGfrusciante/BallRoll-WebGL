@@ -5,6 +5,7 @@
 
 ## Overview
 Unityで作成した玉転がしゲームのアプリケーションです。  
+プレイヤーは矢印キーで玉の移動を操作できます。  
 
 ## Development environment
 - Code：C#
